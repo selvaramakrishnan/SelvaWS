@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=SampleTomcatExample
+project.version=6.4
+project.original.version=6.4
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=6.6.0
+product.original.version=6.6.0
+project.id=619f9277-c377-4271-a0d0-aa1473130e9b
+project.config.path=config
+project.config.storage=FOLDER
+team.server.enabled=false

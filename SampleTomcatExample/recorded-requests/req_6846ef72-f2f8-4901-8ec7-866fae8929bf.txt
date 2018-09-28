@@ -1,0 +1,9 @@
+GET http://192.168.22.184:8080/onlinebank/view-reports.jsp HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://192.168.22.184:8080/onlinebank/get-balance-fanal.jsp
+Accept-Language: en-IN,en-US;q=0.7,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 192.168.22.184:8080
+Cookie: JSESSIONID=511D7105F294F0B130E12A68654391AA
+

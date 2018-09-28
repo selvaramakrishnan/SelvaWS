@@ -1,0 +1,10 @@
+GET http://192.168.22.184:8080/onlinebank/images/banks.swf HTTP/1.1
+Accept: */*
+Accept-Language: en-US
+Referer: http://192.168.22.184:8080/onlinebank/index.jsp
+x-flash-version: 31,0,0,108
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: 192.168.22.184:8080
+Cookie: JSESSIONID=511D7105F294F0B130E12A68654391AA
+
